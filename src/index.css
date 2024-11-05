@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* Tailwind configuration for colors */
+.bg-blue-700 { background-color: #2b6cb0; }
+.text-blue-300 { color: #63b3ed; }
+.hover\:text-blue-300:hover { color: #63b3ed; }
+
+
+
