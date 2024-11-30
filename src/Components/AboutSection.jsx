@@ -61,7 +61,7 @@ const AboutSection = () => {
         </div>
         
         <p className="text-lg leading-relaxed">
-          When I am not working I am most probably reading, playing my guitar or working on my (many work in progress) Science Fiction book!
+          When I am not working I am most probably reading, playing my guitar or working on my (many work in progress) Science Fiction books!
         </p>
       </div>
     </section>
