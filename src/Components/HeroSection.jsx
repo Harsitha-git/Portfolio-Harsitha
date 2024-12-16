@@ -9,7 +9,7 @@ const HeroSection = () => {
       
     
       {/* Link icons */}
-      <ul className="flex justify-center mt-5 space-x-5">
+      <ul className="flex justify-center mt-5 mx-auto lg:mx-10">
  
       <li>
     <a href="mailto:harsitha.sonu@gmail.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-900 dark:hover:text-white dark:text-gray-400">

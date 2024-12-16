@@ -18,7 +18,7 @@ const ExperienceSection = () => {
               <li>Partnered closely with the development team to implement designs using React JS, ensuring seamless integration of user experience with technical functionality</li>
             </ul>
           </Tab>
-          <Tab eventKey="position2" title="eBiz Solutions" >
+          <Tab eventKey="position2" title="eBiz Solutions" className='text-white' >
           <h3 className='pt-4'>eBiz Solutions</h3>
           <h5 className='pt-2 text-sm italic'>Nov 2020 - Dec 2022</h5>
             <ul className='text-white list-disc mt-4'>
