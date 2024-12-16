@@ -20,6 +20,11 @@ const PersonalProjectsSection = () => {
       description: 'Remote Patient Management',
       image: 'chim.jpg',
     },
+    {
+      title: 'Clinic Kiosk',
+      description: 'Patient Check-in Kiosk Screens',
+      image: 'kiosk.png',
+    },
   ];
 
   return (
