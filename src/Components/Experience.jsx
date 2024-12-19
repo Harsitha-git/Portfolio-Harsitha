@@ -19,7 +19,7 @@ const ExperienceSection = () => {
             </ul>
           </Tab>
           <Tab eventKey="position2" title="eBiz Solutions" className='text-white' >
-          <h3 className='pt-4'>eBiz Solutions</h3>
+          <h3 className='pt-4'>Digital Transformation Analyst</h3>
           <h5 className='pt-2 text-sm italic'>Nov 2020 - Dec 2022</h5>
             <ul className='text-white list-disc mt-4'>
               <li>Conducted in-depth analysis of digital processes, identifying areas for improvement and efficiency gains</li>
