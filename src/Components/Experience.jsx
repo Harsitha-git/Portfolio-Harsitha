@@ -8,7 +8,7 @@ const ExperienceSection = () => {
         <h2 className="text-white text-center mb-4">Experience</h2>
         <Tabs defaultActiveKey="position1" id="experience-tabs" className='text-white'>
           <Tab eventKey="position1" title="BrainyMed" className='text-white'>
-            <h3 className='pt-4'>BrainyMed</h3>
+            <h3 className='pt-4'>Product Designer</h3>
             <h5 className='pt-2 text-sm italic'>Jan 2023 - Present</h5>
             <ul className='text-white list-disc mt-4'>
               <li>Designed intuitive user interfaces and experiences for blinkScribe, a mobile and web application, enhancing usability for healthcare professionals during patient consultations</li>
